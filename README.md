@@ -1,4 +1,4 @@
-- 👋 Hello there! I’m doing as a Senior/Lead Backend Software Engineer/System Designer at Recoded Pte. living in Singapore.
+- 👋 Hello there! I’m doing as a Senior/Lead Backend Software Engineer/System Designer at Recoded Pte in Singapore.
 - 👀 I’m interested in backend technologies, IOT and new technologies.
-- 🌱 I am currently experimenting with Kubernetes and a few new tools and frameworks.
+- 🌱 I am currently experimenting LLM integration, vector search, and RAG pipelines also a few new tools and frameworks.
 - 📫 You can reach to me via [Linkedin](https://www.linkedin.com/in/newmizanur)
